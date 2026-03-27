@@ -1,0 +1,6 @@
+streamlit
+boto3
+google-cloud
+azure
+requests
+sqlalchemy
